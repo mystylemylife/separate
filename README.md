@@ -5,26 +5,20 @@
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 根目录下安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 启动
 npm run dev
 
-# build for production with minification
+
+
+
+#启动experss服务器获取数据
+进入server文件夹安装依赖 npm install ---- nodemon(前提安装好了nodemon)
+
+
+# 打包上线
 npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
