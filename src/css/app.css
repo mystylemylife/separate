@@ -1,0 +1,6 @@
+@import 'reset';
+@import 'alias';
+
+img{
+	bg:green;
+}
